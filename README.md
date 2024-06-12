@@ -1,4 +1,5 @@
 
+
 ### 📚 Projects
 
 Welcome to my portfolio, featuring a collection of my [projects](https://github.com/as16082023/Project-Portfolio).
@@ -15,3 +16,6 @@ Welcome to my portfolio, featuring a collection of my [projects](https://github.
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/akanshashaw230816/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=as16082023&label=Profile%20views&color=0e75b6&style=flat" alt="as16082023" /> </p>
+
